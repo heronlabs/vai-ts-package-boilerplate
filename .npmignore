@@ -1,0 +1,12 @@
+# Bin
+node_modules/
+
+# Source
+src/
+
+# Tests
+coverage/
+tests/
+
+# Etc
+*.yml
