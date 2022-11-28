@@ -1,3 +1,1 @@
-export const helloWorld = () => {
-  console.log('Hello World!');
-};
+export {helloWorld} from './application/hello-world';
